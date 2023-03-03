@@ -1,0 +1,7 @@
+/* Navigation */
+nav {
+    display: flex;
+    position:fixed;
+    top: 30%;
+    left: 5%;
+}
